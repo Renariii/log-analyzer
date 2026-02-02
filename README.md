@@ -40,3 +40,6 @@ Vajalikud teegid on kirjas failis `requirements.txt`.
 
 ```bash
 pip install -r requirements.txt
+
+## GitHub Repo
+https://github.com/Renariii/log-analyzer
